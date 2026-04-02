@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Alejandro Vaquero
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# # URL Streamlit Cloud: https://wrapped-analytics-aurb5ayl9e24rna3uhtjir.streamlit.app/
+# # URL GitHub: https://github.com/avaquero-mda/wrapped-analytics
 
 # ============================================================
 # IMPORTS
